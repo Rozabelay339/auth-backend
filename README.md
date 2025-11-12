@@ -14,7 +14,7 @@ Detta är backend-delen för autentisering i ett projekt inom kursen
 Kör följande kommando i terminalen:
 
 ```bash
-git clone https://github.com/hampusvh/FWK24S-WAI-Projektarbete-Frontend.git
+git clone git@github.com:Rozabelay339/frontend-webshop.git
 ```
 
 ### 2. Installera beroenden
